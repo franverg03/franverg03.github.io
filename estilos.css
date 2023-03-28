@@ -1,0 +1,23 @@
+@font-face{
+    font-family:"Playball";
+    src: url(../Fonts/Playball-Regular.ttf)
+}
+body{
+    font-family: "Playball", cursive;
+    font-weight: 1.5rem;
+}
+
+h2{
+    color: #0073ff ;
+    
+}
+
+h3{
+    color: #10b1d5;
+    margin-left: 5px;
+}
+
+
+p{
+    margin-left: 15px;
+}
